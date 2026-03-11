@@ -1,0 +1,17 @@
+Name: iron_man
+Time: 12:30
+Available Seats:
+1 1 0
+0 0 0
+0 0 0
+0 0 1
+1 1 0
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 1 
+1 1 0 
+
+Name: iron_man
+Time: 07:30
+Available Seats:

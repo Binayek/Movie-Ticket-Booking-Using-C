@@ -1,0 +1,36 @@
+Name: Chakka_Panja_1
+Time: 07:45
+Available Seats:
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+
+Name: chakka_Panja_1
+Time: 12:30
+Available Seats:
+1 1 1 
+1 1 0 
+0 0 0 
+0 0 0 
+0 0 0 
+
+Name: iron_Man_1
+Time: 17:15
+Available Seats:
+1 1 1 
+1 1 1 
+1 1 0 
+0 0 0 
+0 0 0 
+
+Name: Hello_World
+Time: 21:30
+Available Seats:
+0 0 0 
+0 1 1 
+1 1 0 
+0 0 0 
+0 1 0 
+
